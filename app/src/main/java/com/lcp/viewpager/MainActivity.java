@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public void toMainAc1(View v){
-        startActivity(new Intent(this,MainActivity1.class));
+    public void toMainAc1(View v) {
+        startActivity(new Intent(this, MainActivity1.class));
     }
 }
